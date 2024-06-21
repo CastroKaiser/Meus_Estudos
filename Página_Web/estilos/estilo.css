@@ -1,3 +1,10 @@
 h2{
-    color: red;
+    color: #61760577;
+    text-align: center;
+    text-shadow: 2px 3px 5px #61760577(0, 0, 0, 0.262);
+}
+p{
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 1px;
 }
